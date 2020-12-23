@@ -1,0 +1,25 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.card-container {
+  display: flex;
+  width: 350px;
+  height: 400px;
+  background-color: rgb(130, 87, 229);
+  align-items: center;
+  flex-direction: column;
+  padding: 12px;
+}
+
+h1 {
+  color: #fff; 
+  font-size: 32px;
+  font-weight: bold;
+}
+
+p {
+  width: 300px;
+  color: #fff; 
+  font-size: 16px;
+}
